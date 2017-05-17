@@ -32,6 +32,7 @@
             this.LblContent = new MetroFramework.Controls.MetroLabel();
             this.WbContent = new System.Windows.Forms.WebBrowser();
             this.metroPanel1 = new MetroFramework.Controls.MetroPanel();
+            this.CbxUpdate = new MetroFramework.Controls.MetroComboBox();
             this.metroPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -82,11 +83,21 @@
             this.metroPanel1.VerticalScrollbarHighlightOnWheel = false;
             this.metroPanel1.VerticalScrollbarSize = 10;
             // 
+            // CbxUpdate
+            // 
+            this.CbxUpdate.FormattingEnabled = true;
+            this.CbxUpdate.ItemHeight = 23;
+            this.CbxUpdate.Location = new System.Drawing.Point(118, 27);
+            this.CbxUpdate.Name = "CbxUpdate";
+            this.CbxUpdate.Size = new System.Drawing.Size(538, 29);
+            this.CbxUpdate.TabIndex = 33;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(693, 415);
+            this.Controls.Add(this.CbxUpdate);
             this.Controls.Add(this.LblContent);
             this.Controls.Add(this.Lbltitle);
             this.Controls.Add(this.metroPanel1);
@@ -105,6 +116,7 @@
         private MetroFramework.Controls.MetroLabel LblContent;
         private System.Windows.Forms.WebBrowser WbContent;
         private MetroFramework.Controls.MetroPanel metroPanel1;
+        private MetroFramework.Controls.MetroComboBox CbxUpdate;
     }
 }
 
