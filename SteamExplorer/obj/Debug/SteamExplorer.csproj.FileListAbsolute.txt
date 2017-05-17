@@ -1,0 +1,17 @@
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\SteamExplorer.exe.config
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\SteamExplorer.exe
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\SteamExplorer.pdb
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\obj\Debug\SteamExplorer.Properties.Resources.resources
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\obj\Debug\SteamExplorer.csproj.GenerateResource.Cache
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\obj\Debug\SteamExplorer.exe
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\obj\Debug\SteamExplorer.pdb
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\MetroFramework.Design.dll
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\MetroFramework.dll
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\MetroFramework.Fonts.dll
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\obj\Debug\SteamExplorer.Form1.resources
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\protobuf-net.dll
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\SteamKit2.dll
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\protobuf-net.pdb
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\protobuf-net.xml
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\bin\Debug\SteamKit2.xml
+E:\users\mikael\documents\visual studio 2015\Projects\SteamExplorer\SteamExplorer\obj\Debug\SteamExplorer.csprojResolveAssemblyReference.cache
